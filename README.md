@@ -12,7 +12,6 @@ Please make sure that all the following files exist in this repository:
 - Editor1.java
 - Editor2.java
 - Editor3.java
-- Editor4.java
 - TesterRunigram.java
 
 In addition, make sure that all image files in the main folder and 'excpected_results' are submitted too.
